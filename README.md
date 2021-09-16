@@ -9,4 +9,4 @@ Remember:
 - Using TurboC++/MSDOS is recommened.
 - ENJOY
 
-&copy shivanshusurya192@gmail.com
+© shivanshusurya192@gmail.com
